@@ -1,1 +1,0 @@
-alert("This is only desktop compatible at the moment");
